@@ -9,7 +9,8 @@ Na visão geral abaixo você encontrará nossos projetos mais recentes:
 Linguagens & Tecnologias: `Laravel 10.x`, `Tailwind`, `Alpine.js`, `Livewire`, `Places API`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Kodama" src="https://i.postimg.cc/qRB53QsT/K-1.png"/>](https://vagnerkodama.com.br/)
+[<img align="left" style="max-width: 94px; max-height: 94px; width: auto; height: auto;" alt="Kodama" src="https://i.postimg.cc/qRB53QsT/K-1.png"/>
+](https://vagnerkodama.com.br/)
 
 **Landing Page** \
 [**Kodama**](https://vagnerkodama.com.br/) • Landing Page \
