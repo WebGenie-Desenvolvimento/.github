@@ -1,12 +1,27 @@
-## Hi there 👋
+### Nossos Projetos
 
-<!--
+Na visão geral abaixo você encontrará nossos projetos mais recentes:
 
-**Here are some ideas to get you started:**
+[<img align="left" height="94px" width="94px" alt="TMKT Londrina" src="https://www.tmktlondrina.com.br/img/logo.png"/>](https://www.tmktlondrina.com.br/)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**Website & System** \
+[**TMKT Londrina**](https://www.tmktlondrina.com.br/) • Business Website • Lead System \
+Linguagens & Tecnologias: `Laravel 10.x`, `Tailwind`, `Alpine.js`, `Livewire`, `Places API`,\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Kodama" src="https://i.postimg.cc/qRB53QsT/K-1.png"/>](https://vagnerkodama.com.br/)
+
+**Landing Page** \
+[**Kodama**](https://vagnerkodama.com.br/) • Landing Page \
+Linguagens & Tecnologias: `Laravel 10.x`, `Tailwind`, `Vue 3.x`, `Inertia`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="WebGenie" src="https://webgenie.com.br/img/Logo.png"/>](https://webgenie.com.br/)
+
+**Website & System** \
+[**WebGenie**](https://webgenie.com.br/) • Business Website • Lead System \
+Linguagens & Tecnologias: `Laravel 10.x`, `Tailwind`, `Vue 3.x`, `Inertia`\
+<br/>
+<br/>
+
+Por favor, encontre-me no [Instagram](https://www.instagram.com/sejawebgenie/) para uma descrição mais detalhada de nossa experiência de trabalho, educação e certificação.
