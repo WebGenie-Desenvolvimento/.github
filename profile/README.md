@@ -6,7 +6,7 @@ Na visão geral abaixo você encontrará nossos projetos mais recentes:
 
 **Website & System** \
 [**Fingertech**](https://fingerponto.shop/) • Business Website • Manage System \
-Linguagens & Tecnologias: `Laravel 11.x`, `Tailwind`, `Alpine.js`, `Livewire`, `Places API`,\
+Linguagens & Tecnologias: `Laravel 11.x`, `Tailwind`, `Alpine.js`, `Livewire`,\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="TMKT Londrina" src="https://www.tmktlondrina.com.br/img/logo.png"/>](https://www.tmktlondrina.com.br/)
