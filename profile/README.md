@@ -2,6 +2,13 @@
 
 Na visão geral abaixo você encontrará nossos projetos mais recentes:
 
+[<img align="left" height="94px" width="94px" alt="Fingertech" src="https://i.postimg.cc/8Pb2pH0r/Untitled-design-2.png"/>](https://fingerponto.shop/)
+
+**Website & System** \
+[**Fingertech**](https://fingerponto.shop/) • Business Website • Manage System \
+Linguagens & Tecnologias: `Laravel 11.x`, `Tailwind`, `Alpine.js`, `Livewire`, `Places API`,\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="TMKT Londrina" src="https://www.tmktlondrina.com.br/img/logo.png"/>](https://www.tmktlondrina.com.br/)
 
 **Website & System** \
